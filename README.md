@@ -20,6 +20,19 @@ make
 make clean
 ```
 
+## TEST
+
+```bash
+make test
+```
+
+## Dependencies
+
+- [GNU Make](https://www.gnu.org/software/make/)
+- [GNU Compiler Collection](https://gcc.gnu.org/)
+- [GNU Debugger](https://www.gnu.org/software/gdb/)
+- [Google Test](https://github.com/google/googletest.git)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
